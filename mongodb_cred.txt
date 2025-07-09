@@ -1,0 +1,4 @@
+robinphukan
+ZqipDK6jFBWIUebk
+
+mongodb+srv://robinphukan:<db_password>@cluster0.wzxgct7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
